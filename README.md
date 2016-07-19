@@ -18,6 +18,7 @@ To play, sign in according to your github ID. It's not complicated and we're on 
 
 Have fun, but remember: THERE CAN ONLY BE ONE.
 
+
 ##Disclaimer
 
 Please don't actually stab anyone with a desk crank. Or give Diane peanuts. Or poison someone with hand sanitizer. Be creatively nonlethal, we won't bail you out of jail or justify you in a court of law.
